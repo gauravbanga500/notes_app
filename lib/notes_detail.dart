@@ -27,7 +27,7 @@ class _notesDetailState extends State<notesDetail> {
         children: [
           Container(
               padding: EdgeInsets.all(15),
-              child: Text(widget.arrNotesData,style: TextStyle(fontSize: 25),)),
+              child: Text(widget.arrNotesData,style: TextStyle(fontSize: 26),)),
         ],
       ),
     );
